@@ -7,11 +7,11 @@
   }
  ],
  "cover": "https://github.com/smallwhite0001/Excel-data-analysis/blob/main/cover_Excel-data-analysis.jpg?raw=true",
- "description": "本册子介绍 Excel 数据处理和分析基础。",
+ "description": "本册子介绍 Excel 数据处理和分析基础。包括数据引用，运算符，常用函数，数据透视表，以及简单数据可视化。",
  "license": "本册子由 Small white 在 XUE.cn 首发。",
  "name": "Excel 数据处理和分析基础",
  "programming_language": "无",
- "category": "用户上传",
+ "category": "用户上传，电脑办公",
  "authors": [
   {
    "avatar": "https://xue-images.pek3b.qingstor.com/default_avatar.png",
@@ -20,7 +20,7 @@
    "role": "origin"
   }
  ],
- "publish_at": "2022-01-11T00:00:00",
+ "publish_at": "2022-04-19T00:00:00",
  "toc_level": 2,
  "version": "0.5"
 }
